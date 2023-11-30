@@ -27,6 +27,7 @@ import {
 
 import taskmanger from "../assets/taskmanager.png";
 import musicroom from "../assets/musicroom.png";
+import My_club from "../assets/My_club.png";
 
 export const navLinks = [
   {
@@ -218,7 +219,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: carrent,
+    image: My_club,
     source_code_link: "https://github.com/",
   },
   {
